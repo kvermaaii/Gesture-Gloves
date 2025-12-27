@@ -1,5 +1,8 @@
 DIY Wireless Gesture-Controlled Automation 🖐️💡
 
+**Research Paper Reference**
+* [IoT Enabled Gesture-Controlled Home Automation for Disabled and Elderly](https://ieeexplore.ieee.org/abstract/document/9076488) 
+
 This is my IOTA course project: a wireless glove that controls home appliances using hand gestures.
 
 The goal was to build a system where the "remote" (my glove) talks to the "switch" (a Relay module) entirely over the internet using Firebase, rather than direct wiring.
